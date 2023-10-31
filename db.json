@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "name": "Kendra Will",
+      "id": 6
+    },
+    {
+      "name": "Rochelle Zieme",
+      "id": 7
+    },
+    {
+      "name": "Ryan Langworth",
+      "id": 8
+    },
+    {
+      "name": "Kristin Walker",
+      "id": 9
+    },
+    {
+      "name": "Francis O'Conner",
+      "id": 10
+    },
+    {
+      "name": "Mr. Sammy Rice",
+      "id": 11
+    },
+    {
+      "name": "Kimberly Jast",
+      "id": 12
+    }
+  ],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Unbranded Granite Shoes",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "title": "Gorgeous Concrete Hat",
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "title": "Gorgeous Metal Cheese",
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "title": "Generic Granite Hat",
+      "id": 18
+    },
+    {
+      "userId": 6,
+      "title": "Fantastic Wooden Chicken",
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "title": "Refined Fresh Bike",
+      "id": 23
+    },
+    {
+      "userId": 7,
+      "title": "Bespoke Rubber Computer",
+      "id": 24
+    },
+    {
+      "userId": 7,
+      "title": "Intelligent Granite Salad",
+      "id": 25
+    },
+    {
+      "userId": 8,
+      "title": "Practical Soft Salad",
+      "id": 26
+    },
+    {
+      "userId": 12,
+      "title": "Handmade Soft Chips",
+      "id": 27
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3370199581458432",
+      "id": 5
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7412205223936000",
+      "id": 11
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2146074695303168",
+      "id": 14
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5601423519645696",
+      "id": 15
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7267014091472896",
+      "id": 16
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2869016911675392",
+      "id": 17
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2702475847008256",
+      "id": 18
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5447959548264448",
+      "id": 19
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=144658338414592",
+      "id": 20
+    },
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8186127162802176",
+      "id": 21
+    },
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6190773833826304",
+      "id": 22
+    },
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2629551200927744",
+      "id": 23
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2602961786109952",
+      "id": 24
+    }
+  ]
+}
